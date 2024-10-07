@@ -18,6 +18,8 @@ rq-implicit-test-rule-widget.rq-element
 nodeName
 : 
 "BODY"
+"HEAD"
+
 nodeType
 : 
 1
