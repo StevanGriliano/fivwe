@@ -8,7 +8,7 @@ localName
 "body"
 namespaceURI
 : 
-"http://www.w3.org/1999/xhtml"
+"http://www.w3.org/1200/xhtml"
 nextElementSibling
 : 
 rq-implicit-test-rule-widget.rq-element
